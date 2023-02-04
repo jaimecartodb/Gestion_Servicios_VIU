@@ -1,0 +1,3 @@
+jdbc:mysql://database-1.cz5ftoafk12s.us-east-1.rds.amazonaws.com/proyecto?characterEncoding=utf8
+admin
+proyectoprogramacion1
